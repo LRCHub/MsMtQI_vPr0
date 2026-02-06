@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "In Motion",
+  "base_artist": "hide",
+  "createdAt": "2026-02-06T17:33:50.771360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bodies In Motion",
+      "artist": "Laurie Anderson",
+      "has_synced": true,
+      "path": "select/01_Bodies_In_Motion_Laurie_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "World In Motion",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/02_World_In_Motion_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "World in Motion (Single Version)",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/03_World_in_Motion_(Single_Version)_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wings in Motion",
+      "artist": "Bladee",
+      "has_synced": false,
+      "path": "select/04_Wings_in_Motion_Bladee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Let's Put Our) Emotions In Motion",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/05_(Let's_Put_Our)_Emotions_In_Motion_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Houses In Motion",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/06_Houses_In_Motion_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BODY IN MOTION (feat. Bryson Tiller, Lil Baby & Roddy Ricch)",
+      "artist": "DJ Khaled feat. Bryson Tiller, Roddy Ricch & Lil Baby",
+      "has_synced": true,
+      "path": "select/07_BODY_IN_MOTION_(feat._Bryson_Tiller,_Lil_Baby_&_Roddy_Ricch)_DJ_Khaled_feat._Bryson_Tiller,_Roddy_Ricch_&_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BODY IN MOTION (feat. Bryson Tiller, Lil Baby & Roddy Ricch)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/08_BODY_IN_MOTION_(feat._Bryson_Tiller,_Lil_Baby_&_Roddy_Ricch)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lost In Motion",
+      "artist": "Yello feat. FiFi Rong",
+      "has_synced": false,
+      "path": "select/09_Lost_In_Motion_Yello_feat._FiFi_Rong.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lost in Motion",
+      "artist": "Yello",
+      "has_synced": false,
+      "path": "select/10_Lost_in_Motion_Yello.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Train Of Love In Motion",
+      "artist": "Heaven 17",
+      "has_synced": false,
+      "path": "select/11_Train_Of_Love_In_Motion_Heaven_17.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Poetry In Motion",
+      "artist": "La Bouche",
+      "has_synced": true,
+      "path": "select/12_Poetry_In_Motion_La_Bouche.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love In Motion (skrillex's funkt-out remix)",
+      "artist": "Sebastian feat. Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/13_Love_In_Motion_(skrillex's_funkt-out_remix)_Sebastian_feat._Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Love In Motion \"Funkt-Out\" Remix - SebastiAn feat. Mayer Hawthorne",
+      "artist": "Skrillex",
+      "has_synced": true,
+      "path": "select/14_Love_In_Motion__Funkt-Out__Remix_-_SebastiAn_feat._Mayer_Hawthorne_Skrillex.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Reality In Motion",
+      "artist": "Tame Impala",
+      "has_synced": true,
+      "path": "select/15_Reality_In_Motion_Tame_Impala.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Soul In Motion",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/16_Soul_In_Motion_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "08 Soul In Motion",
+      "artist": "Lee Aaron",
+      "has_synced": false,
+      "path": "select/17_08_Soul_In_Motion_Lee_Aaron.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love In Motion",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/18_Love_In_Motion_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Radios in Motion",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/19_Radios_in_Motion_XTC.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Man In Motion",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/20_Man_In_Motion_Night_Ranger.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "In Motion",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_01_In_Motion_hide.txt"
+    }
+  ]
+}
